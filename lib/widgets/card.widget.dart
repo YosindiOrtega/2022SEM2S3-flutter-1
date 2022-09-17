@@ -17,8 +17,7 @@ class cardWidget extends StatelessWidget {
       },
       
       child: Container( 
-        color: Colors.amberAccent,
-        height: 100,
+        color: Colors.amberAccent,        
         child: Column(           
             children: [
               Text(articulo.author),
